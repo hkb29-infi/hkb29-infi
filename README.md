@@ -39,8 +39,7 @@ Here are some ideas to get you started:
 - Mentorship & Fundraising – Raised INR 65,000 to support education for underprivileged children.
 
 ### What do I do for fun?
--Play billiards
--Workout
+Play billiards | Sports | Workout
 
 ### Connect with Me
 [Email](hkbrahmbhatt.29@gmail.com)
