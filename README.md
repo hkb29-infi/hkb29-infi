@@ -40,7 +40,7 @@ A **Computer Science student at Rochester Institute of Technology (RIT)** specia
 * Production RAG system over 10,000+ documents with **ChromaDB vector storage** and custom boundary chunking.
 * Utilizes **MMR (Maximal Marginal Relevance)** semantic retrieval (40% answer quality improvement) integrated with Gemini 2.5 Flash.
 
-#### 📝 [Note-Sage — AI Study Platform]
+#### 📝 Note-Sage — AI Study Platform
 * Led a 6-person dev team building an AI note-taking app using **React, Firebase, and Gemini API**.
 * Established GitHub Actions CI/CD workflows, client-side caching strategies, and post-MVP roadmap execution for 100+ survey users.
 
