@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henil-brahmbhatt-19a808320)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hkb6416@rit.edu)
-[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
 A **Computer Science student at Rochester Institute of Technology (RIT)** specializing in **Machine Learning Systems**, **Distributed Big Data Engineering**, and **Autonomous Agents**. 
 
