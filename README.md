@@ -28,19 +28,19 @@ A **Computer Science student at Rochester Institute of Technology (RIT)** specia
 
 ### ⚡ Featured Projects
 
-#### 🤖 [NexusML — Distributed ML Training Platform](https://github.com/hkb29-infi)
+#### 🤖 [NexusML — Distributed ML Training Platform](https://github.com/hkb29-infi/NexusML)
 * Cloud-native MLOps orchestration engine leveraging an asynchronous **Redis sorted-set priority queue (`BZPOPMIN`)** for dynamic PyTorch training jobs.
 * Isolated worker environments via **Docker containers**, persisting checkpoints to volume storage, with a **FastAPI/SQLAlchemy** metrics REST API and React dashboard.
 
-#### 🚁 [AUS-Lab — Agentic UAV Swarm Simulation](https://github.com/hkb29-infi)
+#### 🚁 [AUS-Lab — Agentic UAV Swarm Simulation](https://github.com/RomanSlack/AUS-Lab)
 * High-performance 50–1,000+ UAV swarm simulation built with **Rust, WebGPU, and React**.
 * Features real-time physics, waypoint navigation, LLM-driven hive-mind mission control, and sub-100ms **Raft-based distributed consensus** for fault-tolerant swarm leadership.
 
-#### 🧠 [KAIRO — Retrieval-Augmented AI Assistant](https://github.com/hkb29-infi)
+#### 🧠 [KAIRO — Retrieval-Augmented AI Assistant](https://github.com/hkb29-infi/Kairo)
 * Production RAG system over 10,000+ documents with **ChromaDB vector storage** and custom boundary chunking.
 * Utilizes **MMR (Maximal Marginal Relevance)** semantic retrieval (40% answer quality improvement) integrated with Gemini 2.5 Flash.
 
-#### 📝 [Note-Sage — AI Study Platform](https://github.com/hkb29-infi)
+#### 📝 [Note-Sage — AI Study Platform]
 * Led a 6-person dev team building an AI note-taking app using **React, Firebase, and Gemini API**.
 * Established GitHub Actions CI/CD workflows, client-side caching strategies, and post-MVP roadmap execution for 100+ survey users.
 
